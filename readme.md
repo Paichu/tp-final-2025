@@ -2,6 +2,7 @@
 # Trabajo Intregador Final
 ## Integrantes del equipo
 - Nombre Apellido
+-  Carlos Alfredo Cari
 - Darío Ignacio López
 - Ivàn Arce
 ## Carrera
